@@ -1,1 +1,0 @@
-Archivos relacionados al proyecto
